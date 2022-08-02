@@ -1,0 +1,21 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [ "com.infogen.AppClip2222" ],
+                "components": [
+
+                ],
+                "paths": [ "/iOS-Universal-Links/*" ]
+
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [ "com.infogenLabs.NewAPP" ]
+    },
+
+    "appclips": {
+        "apps": [ "com.infogen.AppClip2222.Clip" ]
+    }
+}
